@@ -55,7 +55,7 @@ Este projeto realiza uma **análise exploratória e estatística de jogadores da
 
 ---
 
-![Top 10 Jogadores Ofensivos](images/top10ofensivos.png)
+![Top 10 Jogadores Ofensivos](/images/top10ofensivos.png)
 
 
 ---
