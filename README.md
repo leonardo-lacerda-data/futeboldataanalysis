@@ -20,28 +20,6 @@ Este projeto realiza uma **análise exploratória e estatística de jogadores da
 
 ---
 
-## 🚀 Execução do Projeto
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seuusuario/futebol-data-analysis.git
-   cd futebol-data-analysis
-   ```
-
-2. Instale as dependências:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Execute o notebook:
-
-   ```bash
-   jupyter notebook "futebol data analysis.ipynb"
-   ```
-
----
 
 ## 📊 Principais Análises
 
