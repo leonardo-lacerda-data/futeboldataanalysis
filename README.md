@@ -55,13 +55,8 @@ Este projeto realiza uma **análise exploratória e estatística de jogadores da
 
 ---
 
-## 🏆 Resultados e Insights
+![Top 10 Jogadores Ofensivos](images/top10ofensivos.png)
 
-* **Ofensivos:** Atacantes com alta taxa de gols e participação direta em gols.
-* **Defensivos:** Zagueiros maior roubo de bola e interceptações.
-* **Ligas:** Ligas como Premier League e La Liga destacam-se pela eficiência ofensiva; Serie A se sobressai na defesa.
-* **Goleiros:** Melhores goleiros.
-* **Dream Team:** Montagem final com os melhores jogadores por posição,(FORMAÇÃO 3-5-2)
 
 ---
 
