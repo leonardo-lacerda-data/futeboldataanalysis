@@ -32,9 +32,17 @@ Este projeto realiza uma **análise exploratória e estatística de jogadores da
 | **Dream Team**               | Montagem do time ideal por concatenação dos melhores jogadores, sem restrição de liga.   | Ranking geral ponderado por desempenho e impacto.           |
 
 ---
-
+# ⚔️ Top 10 Jogadores Ofensivos (G+A)
 ![Top 10 Jogadores Ofensivos](/images/top10ofensivos.png)
 
+# 🛡️ Top 10 Jogadores Defensivos (Tkl+Int)
+![Top 10 Jogadores Defensivos](/images/top10defensivos.png)
+
+# 🧤 Melhores Goleiros (Saves)
+![Top Goleiros](/images/melhores_goleiros_por_liga.png)
+
+# ⚽️ Dream Team (FORMAÇÃO 3-5-2)
+![Dream Team](/images/dream_team.png)
 
 ---
 
