@@ -19,9 +19,9 @@ This project performs an **exploratory and statistical analysis of players in Eu
 ---
 
 
-## 📊 Principais Análises
+## 📊 Key Analysis
 
-| Análise                      | Descrição                                                           | Principais Métricas                                         |
+| Analysis                     | Description                                                          | Key Metrics                                         |
 | ---------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **Top Offensive Players**  | Best performanced players in offensive actions. | Goals + assists (“G+A”).     |
 | **Top Defensive Players** | Best performanced players in defensive actions.                          | Tackles & Interceptions ("Tkl+Int")  |
@@ -36,10 +36,10 @@ This project performs an **exploratory and statistical analysis of players in Eu
 # 🛡️ Top 10 Jogadores Defensivos (Tkl+Int)
 ![Top 10 Defensive Players](/images/top10defensivos.png)
 
-# 🧤 Melhores Goleiros (Saves)
+# 🧤 Top Goalkeepers (Saves)
 ![Top Goalkeepers](/images/melhores_goleiros_por_liga.png)
 
-# ⚽️ Dream Team (FORMAÇÃO 3-5-2)
+# ⚽️ Dream Team (FORMATION 3-5-2)
 ![Dream Team](/images/dream_team.png)
 
 ---
