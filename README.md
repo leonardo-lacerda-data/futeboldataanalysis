@@ -1,23 +1,21 @@
-# ⚽ Análise Base de Dados das Ligas Europeias de Futebol – Temporada 2024/2025
+# ⚽ European Soccer Leagues Database Analysis – 2024/2025 Season
 
-Este projeto realiza uma **análise exploratória e estatística de jogadores das ligas europeias de futebol da temporada 2024/2025**, utilizando Python e bibliotecas de ciência de dados. O objetivo é identificar padrões de desempenho ofensivo e defensivo, avaliar ligas e construir o **"Dream Team"** com base em métricas de performance.
-
----
-
-## 📁 Estrutura do Repositório
-
-```
-├── futebol data analysis.ipynb     # Notebook principal com análises e visualizações
-├── players_data_light-2024_2025.csv # Base de dados dos jogadores da temporada
-├── README.md                        # Descrição do projeto
-```
+This project performs an **exploratory and statistical analysis of players in European soccer leagues for the 2024/2025 season**, using Python and data science libraries. The goal is to identify offensive and defensive performance patterns, evaluate leagues, and build the **“Dream Team”** based on performance metrics.
 
 ---
 
-## 🧩 Bibliotecas
-* **Pandas** – tratamento e análise de dados
-* **Matplotlib / Seaborn** – visualizações estatísticas
+## 📁 Repository Sctructure
 
+```
+├── futebol data analysis.ipynb     # Main notebook with analysis and vizualization
+├── players_data_light-2024_2025.csv # Season player database
+```
+
+---
+
+## 🧩 Libraries
+* **Pandas** – data processing and analysis
+* **Matplotlib / Seaborn** – statistical vizualization
 ---
 
 
@@ -25,30 +23,30 @@ Este projeto realiza uma **análise exploratória e estatística de jogadores da
 
 | Análise                      | Descrição                                                           | Principais Métricas                                         |
 | ---------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| **Top Jogadores Ofensivos**  | Identificação dos atletas com melhor desempenho em ações ofensivas. | Gols + assistências ("G+A").     |
-| **Top Jogadores Defensivos** | Avalia a performance defensiva individual.                          | Botes e interceptações ("Tkl+Int")  |
-| **Ligas de Maior Qualidade** | Compara ligas por média ofensiva e defensiva.                          | Melhores defensores e atacantes.
-| **Melhores Goleiros**        | Analisa goleiros com base em defesa ("Saves").                  | Defesas por jogo. |
-| **Dream Team**               | Montagem do time ideal por concatenação dos melhores jogadores, sem restrição de liga.   | Ranking geral ponderado por desempenho e impacto.           |
+| **Top Offensive Players**  | Best performanced players in offensive actions. | Goals + assists (“G+A”).     |
+| **Top Defensive Players** | Best performanced players in defensive actions.                          | Tackles & Interceptions ("Tkl+Int")  |
+| **Best Leagues** | Compare leagues by offensive and defensive averages.                          | Best defenders and forwards.
+| **Best Goalkeepers**        | Analyzes goalkeepers based on saves. | Saves per game. |
+| **Dream Team**               | Assembling the ideal team by combining the best players, without league restrictions. | Overall ranking weighted by performance and impact.           |
 
 ---
-# ⚔️ Top 10 Jogadores Ofensivos (G+A)
-![Top 10 Jogadores Ofensivos](/images/top10ofensivos.png)
+# ⚔️ Top 10 Offensive Players (G+A)
+![Top 10 Offensive Players](/images/top10ofensivos.png)
 
 # 🛡️ Top 10 Jogadores Defensivos (Tkl+Int)
-![Top 10 Jogadores Defensivos](/images/top10defensivos.png)
+![Top 10 Defensive Players](/images/top10defensivos.png)
 
 # 🧤 Melhores Goleiros (Saves)
-![Top Goleiros](/images/melhores_goleiros_por_liga.png)
+![Top Goalkeepers](/images/melhores_goleiros_por_liga.png)
 
 # ⚽️ Dream Team (FORMAÇÃO 3-5-2)
 ![Dream Team](/images/dream_team.png)
 
 ---
 
-## 💡 Futuras Extensões
+## 💡 Future Extensions
 
-* Integração com dados históricos (últimas 5 temporadas)
-* Análise de evolução de performance dos jogadores
-* Criação de dashboard interativo (Streamlit ou Power BI)
+* Integration with historical data (last 5 seasons)
+* Analysis of player performance evolution
+* Creation of interactive dashboard (Streamlit or Power BI)
 
